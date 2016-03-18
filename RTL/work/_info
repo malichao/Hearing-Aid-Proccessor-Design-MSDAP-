@@ -1,0 +1,657 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/9
+Eadder
+Z0 w1449590530
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11
+Z6 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Adder.vhd
+Z7 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Adder.vhd
+l0
+L7
+VDTZHGVzjU@dmb0@f^W_3[3
+!s100 E^V;KYRFJD43EL;8<BE0j3
+Z8 OV;C;10.3d;59
+32
+Z9 !s110 1450323939
+!i10b 1
+Z10 !s108 1450323939.348000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Adder.vhd|
+Z12 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Adder.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 5 adder 0 22 DTZHGVzjU@dmb0@f^W_3[3
+l16
+L15
+V`7;ejJ>lWFLgPmjFIe1]c0
+!s100 ?1TkOUNN;CNQkR^dL25dG1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealu
+Z15 w1449951377
+R1
+R2
+R3
+R4
+R5
+Z16 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/ALU.vhd
+Z17 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/ALU.vhd
+l0
+L6
+VS2>gBM<W4jPa<BVDmL1Z`2
+!s100 dDKFC6M]Q]1X:G>f_K?ci1
+R8
+32
+Z18 !s110 1450323940
+!i10b 1
+Z19 !s108 1450323940.069000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/ALU.vhd|
+Z21 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/ALU.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 S2>gBM<W4jPa<BVDmL1Z`2
+l52
+L18
+V2l:O]KJkCP?06bgcld0VE3
+!s100 51Ye2_EbCPil`kdUnbb=o2
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
+Ealu_controller
+Z22 w1449938262
+R1
+R2
+R3
+R4
+R5
+Z23 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/ALU_controller.vhd
+Z24 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/ALU_controller.vhd
+l0
+L6
+V<7m5]Bo@h_XSz<zcJk`Oc1
+!s100 7H?75QG[?AVY8SVFX[nQ21
+R8
+32
+R18
+!i10b 1
+Z25 !s108 1450323940.875000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/ALU_controller.vhd|
+Z27 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/ALU_controller.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 14 alu_controller 0 22 <7m5]Bo@h_XSz<zcJk`Oc1
+l34
+L26
+VH=?DT]OHX6B4HIgzD;^WP1
+!s100 K0O8Gz0eFF2TeeZBzB?M50
+R8
+32
+R18
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R13
+R14
+Ecoefmem
+Z28 w1449955807
+R1
+R2
+R3
+R4
+R5
+Z29 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/CoefMem.vhd
+Z30 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/CoefMem.vhd
+l0
+L6
+Vk@lXfeORKQje9OmB3;RR63
+!s100 BA7T=e8SjgIAUOSD[JXe60
+R8
+32
+Z31 !s110 1450323941
+!i10b 1
+Z32 !s108 1450323941.783000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/CoefMem.vhd|
+Z34 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/CoefMem.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 7 coefmem 0 22 k@lXfeORKQje9OmB3;RR63
+l21
+L18
+VXL8oG2`]VEL;zD8:24ATT2
+!s100 E5974fX107BeIDG:7A:UQ0
+R8
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R13
+R14
+Eextender
+Z35 w1449937338
+R1
+R2
+R3
+R4
+R5
+Z36 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Extender.vhd
+Z37 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Extender.vhd
+l0
+L6
+VGP^<e7?M[Gg[=BFNFn0NY2
+!s100 CLHb[Sb<9EmX>@<_@FIOW3
+R8
+32
+Z38 !s110 1450323942
+!i10b 1
+Z39 !s108 1450323942.752000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Extender.vhd|
+Z41 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Extender.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 8 extender 0 22 GP^<e7?M[Gg[=BFNFn0NY2
+l17
+L14
+V=>f4TbQ=HD7d1bzeS`2CC0
+!s100 2;aXI7F:_LlZ_KbLaE4a20
+R8
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R13
+R14
+Efir
+Z42 w1449975174
+R1
+R2
+R3
+R4
+R5
+Z43 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/FIR.vhd
+Z44 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/FIR.vhd
+l0
+L6
+Vn_]cd1@IXB=^^clTLAKkC3
+!s100 FlnWBA?4WTSnDkXCKI3PU3
+R8
+32
+Z45 !s110 1450323943
+!i10b 1
+Z46 !s108 1450323943.506000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/FIR.vhd|
+Z48 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/FIR.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 3 fir 0 22 n_]cd1@IXB=^^clTLAKkC3
+l138
+L32
+VL7>UjB0eP6=GA?HIUoP6<0
+!s100 zA[dY7Y?YjfKSZkQJklK13
+R8
+32
+R45
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R13
+R14
+Emain_controller
+Z49 w1449975121
+R1
+R2
+R3
+R4
+R5
+Z50 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/main_controller.vhd
+Z51 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/main_controller.vhd
+l0
+L6
+VCA[cB8k2F_?FJUHZ>U1m32
+!s100 dZ6X9AD?Ok`?4zUha921=1
+R8
+32
+Z52 !s110 1450323944
+!i10b 1
+Z53 !s108 1450323944.202000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/main_controller.vhd|
+Z55 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/main_controller.vhd|
+!i113 1
+R13
+R14
+Abehaviour
+R1
+R2
+R3
+R4
+DEx4 work 15 main_controller 0 22 CA[cB8k2F_?FJUHZ>U1m32
+l47
+L35
+VObX<>6_cBK?DjLT_ZVA2g0
+!s100 [9ZT]J=_iF?3;1m:IeleQ1
+R8
+32
+R52
+!i10b 1
+R53
+R54
+R55
+!i113 1
+R13
+R14
+Emsdap_beh
+Z56 w1450288692
+R1
+R2
+R3
+R4
+R5
+Z57 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/MSDAP6.vhd
+Z58 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/MSDAP6.vhd
+l0
+L23
+V1S^P^Ug9XgfHoijBPU5l:0
+!s100 1lZJDFmn1feMO3D8j2S<V1
+R8
+32
+Z59 !s110 1450323946
+!i10b 1
+Z60 !s108 1450323946.680000
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/MSDAP6.vhd|
+Z62 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/MSDAP6.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 9 msdap_beh 0 22 1S^P^Ug9XgfHoijBPU5l:0
+l97
+L39
+Vi3[BcYk90RaAO?5><?56X3
+!s100 XU4M:87NadAm_5U=]aV[e3
+R8
+32
+R59
+!i10b 1
+R60
+R61
+R62
+!i113 1
+R13
+R14
+Emsdap_rtl
+Z63 w1450241275
+R1
+R2
+R3
+R4
+R5
+Z64 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/MSDAP.vhd
+Z65 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/MSDAP.vhd
+l0
+L6
+VTCCGJQLYQz[;OFS]cfje@0
+!s100 OgO0VYC=eU>A65mzl7^5z2
+R8
+32
+Z66 !s110 1450323945
+!i10b 1
+Z67 !s108 1450323944.998000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/MSDAP.vhd|
+Z69 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/MSDAP.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 9 msdap_rtl 0 22 TCCGJQLYQz[;OFS]cfje@0
+l89
+L22
+V7>mHY7O;IhXW7<SNz04oJ2
+!s100 QMX8k;bjgQ40JncBPFn==2
+R8
+32
+R66
+!i10b 1
+R67
+R68
+R69
+!i113 1
+R13
+R14
+Ereceiver
+Z70 w1449975873
+R1
+R2
+R3
+R4
+R5
+Z71 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Receiver.vhd
+Z72 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Receiver.vhd
+l0
+L6
+V2CEc[:nV9RQ9bR036QKFZ1
+!s100 T1BO9GhDm4ENUD:QhHXID3
+R8
+32
+Z73 !s110 1450323947
+!i10b 1
+Z74 !s108 1450323947.464000
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Receiver.vhd|
+Z76 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Receiver.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 8 receiver 0 22 2CEc[:nV9RQ9bR036QKFZ1
+l18
+L15
+VT`:YjTZ;DP@LCLJQH6K_S3
+!s100 JdVI1b4Wd7=CW@G91?k1g2
+R8
+32
+R73
+!i10b 1
+R74
+R75
+R76
+!i113 1
+R13
+R14
+Erjmem
+Z77 w1449975198
+R1
+R2
+R3
+R4
+R5
+Z78 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/RjMem.vhd
+Z79 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/RjMem.vhd
+l0
+L6
+VSSji2Yd]aR_1abjckdZ2a2
+!s100 3]XXC2j^J5LXBV7XmUzdm2
+R8
+32
+Z80 !s110 1450323948
+!i10b 1
+Z81 !s108 1450323948.240000
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/RjMem.vhd|
+Z83 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/RjMem.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 5 rjmem 0 22 SSji2Yd]aR_1abjckdZ2a2
+l22
+L18
+VZdVEa>A1[gmonizkV89Bm0
+!s100 R8FNiR6]iDZ<EK6SX=UkW2
+R8
+32
+R80
+!i10b 1
+R81
+R82
+R83
+!i113 1
+R13
+R14
+Eshifter
+Z84 w1449937300
+R1
+R2
+R3
+R4
+R5
+Z85 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Shifter.vhd
+Z86 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Shifter.vhd
+l0
+L6
+V26ejjzYkzb_ZXzamiOjQV1
+!s100 VAL;Ffn2zeamZ:9ABlWO71
+R8
+32
+Z87 !s110 1450323949
+!i10b 1
+Z88 !s108 1450323949.065000
+Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Shifter.vhd|
+Z90 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Shifter.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 7 shifter 0 22 26ejjzYkzb_ZXzamiOjQV1
+l20
+L17
+VO0gUe8Fc=j>]g4UFCV:YE3
+!s100 3m8@0>NEj8D0o>YPX7Q=21
+R8
+32
+R87
+!i10b 1
+R88
+R89
+R90
+!i113 1
+R13
+R14
+Etestbench
+Z91 w1450328114
+R2
+R1
+Z92 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R3
+R4
+R5
+Z93 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/testbench final.vhd
+Z94 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/testbench final.vhd
+l0
+L7
+VB]l>3oU?FILYPW:L7a8nR2
+!s100 i[UTk>E<AM?W=jbNB@d4d0
+R8
+32
+Z95 !s110 1450328118
+!i10b 1
+Z96 !s108 1450328118.281000
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/testbench final.vhd|
+Z98 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/testbench final.vhd|
+!i113 1
+R13
+R14
+Aexamine
+R2
+R1
+R92
+R3
+R4
+Z99 DEx4 work 9 testbench 0 22 B]l>3oU?FILYPW:L7a8nR2
+l113
+L11
+VbkZX4oozNh69VVkca_ZzO2
+!s100 ^3bSmLVk5WXW5<[kRC[B63
+R8
+32
+R95
+!i10b 1
+R96
+R97
+R98
+!i113 1
+R13
+R14
+Etransmitter
+Z100 w1449975927
+R1
+R2
+R3
+R4
+R5
+Z101 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Transmitter.vhd
+Z102 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Transmitter.vhd
+l0
+L6
+VAkm5e2DMCj]Gg^GX8;L1S0
+!s100 h^5?GlLF??[UNgcGg:C3R0
+R8
+32
+R87
+!i10b 1
+Z103 !s108 1450323949.955000
+Z104 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Transmitter.vhd|
+Z105 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/Transmitter.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 11 transmitter 0 22 Akm5e2DMCj]Gg^GX8;L1S0
+l26
+L19
+VneVdR6OcQG8Tde;zTMlR`3
+!s100 IYS1`Gf_mHMHj0MB44^T93
+R8
+32
+R87
+!i10b 1
+R103
+R104
+R105
+!i113 1
+R13
+R14
+Evoicemem
+Z106 w1449955119
+R1
+R2
+R3
+R4
+R5
+Z107 8C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/VoiceMem.vhd
+Z108 FC:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/VoiceMem.vhd
+l0
+L6
+VYbN`VeZdWH0IlOkVT8o8R0
+!s100 2TzbA:=cfU<>hXIFTW90g0
+R8
+32
+Z109 !s110 1450323938
+!i10b 1
+Z110 !s108 1450323938.560000
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/VoiceMem.vhd|
+Z112 !s107 C:/Users/Lichao/Dropbox/UTD/courses/ASIC/final/11/VoiceMem.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 8 voicemem 0 22 YbN`VeZdWH0IlOkVT8o8R0
+l24
+L18
+Vi^o]Wg5F8DohOj2Rb8a]J2
+!s100 ;f8dezGX2L[J7XX@>2S7O3
+R8
+32
+R109
+!i10b 1
+R110
+R111
+R112
+!i113 1
+R13
+R14
